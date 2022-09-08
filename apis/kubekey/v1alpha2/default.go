@@ -44,7 +44,7 @@ const (
 	DefaultDockerVersion        = "20.10.8"
 	DefaultContainerdVersion    = "1.6.4"
 	DefaultRuncVersion          = "v1.1.1"
-	DefaultCrictlVersion        = "v1.24.0"
+	DefaultCrictlVersion        = "v1.22.0"
 	DefaultKubeVersion          = "v1.23.10"
 	DefaultCalicoVersion        = "v3.23.2"
 	DefaultFlannelVersion       = "v0.12.0"
